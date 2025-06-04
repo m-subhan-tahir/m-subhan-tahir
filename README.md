@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhan Tahir</h1>
-<h3 align="center">🎯 Front-End Developer | React.js Expert | JavaScript Enthusiast</h3>
+<h3 align="center">🎯 Front-end Development Expert 🎯 React Js 🎯 Next Js 🎯 Redux 🎯 JavaScript 🎯 MERN Stack 🎯 API Integrations</h3>
 
 <img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="350" height="250" />
 
